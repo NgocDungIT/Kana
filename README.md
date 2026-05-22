@@ -1,1 +1,1 @@
-# Kana
+Đây là app Kata
